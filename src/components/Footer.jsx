@@ -12,7 +12,7 @@ function Footer() {
         <p>Copyright &copy; {year}. All rights reserved</p>
       </div>
       <div class='bottom-footer'>
-        <a href='https://www.github.com/suraj-adav' class='social-icons'>
+        <a href='https://www.github.com/adavSuraj' class='social-icons'>
           <GitHubIcon />
         </a>
         <a href='mailto:surajr.adav@gmail.com' class='social-icons'>
